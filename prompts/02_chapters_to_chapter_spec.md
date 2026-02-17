@@ -3,10 +3,10 @@
 Goal: Materialize one chapter spec file (`chXX.md`) from chapter overview.
 
 Input:
-- `/vol/projects/mechauthor/outline/chapters.md`
+- `/vol/projects/MechAuthor/outline/chapters.md`
 
 Output:
-- `/vol/projects/mechauthor/outline/chapters/chXX.md`
+- `/vol/projects/MechAuthor/outline/chapters/chXX.md`
 
 Include:
 - Chapter goal

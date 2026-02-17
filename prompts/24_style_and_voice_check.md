@@ -1,6 +1,6 @@
 # Quality Task: Style and Voice Check
 
-Goal: Verify voice consistency against `/vol/projects/mechauthor/prompts/style_guide.md`.
+Goal: Verify voice consistency against `/vol/projects/MechAuthor/prompts/style_guide.md`.
 
 Outputs:
 - Pass/fail verdict

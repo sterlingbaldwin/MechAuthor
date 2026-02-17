@@ -3,10 +3,10 @@
 Goal: Generate scene plans for one chapter.
 
 Input:
-- `/vol/projects/mechauthor/outline/chapters/chXX.md`
+- `/vol/projects/MechAuthor/outline/chapters/chXX.md`
 
 Output:
-- `/vol/projects/mechauthor/outline/scenes/chXX_scenes.md`
+- `/vol/projects/MechAuthor/outline/scenes/chXX_scenes.md`
 
 For each scene include:
 - Scene id

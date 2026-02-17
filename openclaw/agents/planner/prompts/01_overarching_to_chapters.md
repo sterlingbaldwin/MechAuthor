@@ -3,11 +3,11 @@
 Goal: Break the overarching plot into 4-5 coherent chapters.
 
 Input:
-- `/vol/projects/mechauthor/openclaw/global_state/outline/overarching_plot.md`
+- `/vol/projects/MechAuthor/openclaw/global_state/outline/overarching_plot.md`
 
 Outputs:
-- `/vol/projects/mechauthor/openclaw/global_state/outline/chapters.md`
-- `/vol/projects/mechauthor/openclaw/global_state/outline/chapters/chXX.md`
+- `/vol/projects/MechAuthor/openclaw/global_state/outline/chapters.md`
+- `/vol/projects/MechAuthor/openclaw/global_state/outline/chapters/chXX.md`
 
 Each chapter must define:
 - Theme

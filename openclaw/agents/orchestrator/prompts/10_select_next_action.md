@@ -1,9 +1,9 @@
 # Orchestrator Task: Select Next Action
 
-Goal: Decide the next agent and task from `/vol/projects/mechauthor/openclaw/global_state/run/story_state.md`.
+Goal: Decide the next agent and task from `/vol/projects/MechAuthor/openclaw/global_state/run/story_state.md`.
 
 Output:
-- `/vol/projects/mechauthor/openclaw/global_state/run/next_action.md`
+- `/vol/projects/MechAuthor/openclaw/global_state/run/next_action.md`
 
 Routing rules:
 - If `repair_required: true`, route to repair.

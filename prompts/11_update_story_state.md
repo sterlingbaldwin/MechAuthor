@@ -1,6 +1,6 @@
 # State Task: Update Story State
 
-Goal: Apply deterministic updates to `/vol/projects/mechauthor/run/story_state.md` after task completion.
+Goal: Apply deterministic updates to `/vol/projects/MechAuthor/run/story_state.md` after task completion.
 
 Requirements:
 - Increment scene/chapter counters safely.

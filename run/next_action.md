@@ -2,7 +2,7 @@ next_agent: orchestrator
 task: select_next_action
 reason: bootstrap
 read_files:
-  - /vol/projects/mechauthor/run/story_state.md
+  - /vol/projects/MechAuthor/run/story_state.md
 write_files:
-  - /vol/projects/mechauthor/run/next_action.md
-  - /vol/projects/mechauthor/run/run_log.md
+  - /vol/projects/MechAuthor/run/next_action.md
+  - /vol/projects/MechAuthor/run/run_log.md

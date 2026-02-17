@@ -3,11 +3,11 @@
 Goal: Break the overarching plot into 4-5 coherent chapters.
 
 Input:
-- `/vol/projects/mechauthor/outline/overarching_plot.md`
+- `/vol/projects/MechAuthor/outline/overarching_plot.md`
 
 Outputs:
-- `/vol/projects/mechauthor/outline/chapters.md`
-- `/vol/projects/mechauthor/outline/chapters/chXX.md`
+- `/vol/projects/MechAuthor/outline/chapters.md`
+- `/vol/projects/MechAuthor/outline/chapters/chXX.md`
 
 Each chapter must define:
 - Theme
