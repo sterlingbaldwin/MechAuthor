@@ -1,0 +1,9 @@
+current_phase: PLAN_OVERARCHING
+current_chapter: 0
+current_scene: 0
+total_chapters: 0
+scenes_in_current_chapter: 0
+story_complete: false
+validation_required: false
+repair_required: false
+last_completed_action: none
