@@ -3,15 +3,15 @@
 Goal: Write prose for one scene.
 
 Inputs:
-- `outline/scenes/chXX_scenes.md`
-- `outline/chapters/chXX.md`
-- `memory/characters/index.md`
-- `memory/event_log.md`
-- `prompts/style_guide.md`
+- `/vol/projects/mechauthor/outline/scenes/chXX_scenes.md`
+- `/vol/projects/mechauthor/outline/chapters/chXX.md`
+- `/vol/projects/mechauthor/memory/characters/index.md`
+- `/vol/projects/mechauthor/memory/event_log.md`
+- `/vol/projects/mechauthor/prompts/style_guide.md`
 
 Outputs:
-- `draft/chapters/chXX_prose.md`
-- Append to `draft/story.md`
+- `/vol/projects/mechauthor/draft/chapters/chXX_prose.md`
+- Append to `/vol/projects/mechauthor/draft/story.md`
 
 Constraints:
 - Respect established continuity.

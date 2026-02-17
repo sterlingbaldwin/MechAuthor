@@ -4,14 +4,14 @@ Goal: Expand the root seed into a macro narrative arc.
 
 Inputs:
 - User seed
-- `prompts/style_guide.md`
+- `/vol/projects/mechauthor/prompts/style_guide.md`
 
 Outputs:
-- `outline/overarching_plot.md`
-- `memory/characters/index.md`
-- `memory/event_log.md`
+- `/vol/projects/mechauthor/outline/overarching_plot.md`
+- `/vol/projects/mechauthor/memory/characters/index.md`
+- `/vol/projects/mechauthor/memory/event_log.md`
 
-Required sections in `outline/overarching_plot.md`:
+Required sections in `/vol/projects/mechauthor/outline/overarching_plot.md`:
 1. Core conflict
 2. Major turning points
 3. Thematic spine

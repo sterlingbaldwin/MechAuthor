@@ -4,7 +4,7 @@ reason: bootstrap
 chapter: 0
 scene: 0
 read_files:
-  - <STATE_ROOT>/run/story_state.md
+  - /vol/projects/mechauthor/openclaw/global_state/run/story_state.md
 write_files:
-  - <STATE_ROOT>/run/next_action.md
-  - <STATE_ROOT>/run/run_log.md
+  - /vol/projects/mechauthor/openclaw/global_state/run/next_action.md
+  - /vol/projects/mechauthor/openclaw/global_state/run/run_log.md

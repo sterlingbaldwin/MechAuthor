@@ -3,15 +3,15 @@
 Goal: Write prose for one scene.
 
 Inputs:
-- `<STATE_ROOT>/outline/scenes/chXX_scenes.md`
-- `<STATE_ROOT>/outline/chapters/chXX.md`
-- `<STATE_ROOT>/memory/characters/index.md`
-- `<STATE_ROOT>/memory/event_log.md`
-- `prompts/style_guide.md`
+- `/vol/projects/mechauthor/openclaw/global_state/outline/scenes/chXX_scenes.md`
+- `/vol/projects/mechauthor/openclaw/global_state/outline/chapters/chXX.md`
+- `/vol/projects/mechauthor/openclaw/global_state/memory/characters/index.md`
+- `/vol/projects/mechauthor/openclaw/global_state/memory/event_log.md`
+- `/vol/projects/mechauthor/openclaw/agents/writer/prompts/style_guide.md`
 
 Outputs:
-- `<STATE_ROOT>/draft/chapters/chXX_prose.md`
-- Append to `<STATE_ROOT>/draft/story.md`
+- `/vol/projects/mechauthor/openclaw/global_state/draft/chapters/chXX_prose.md`
+- Append to `/vol/projects/mechauthor/openclaw/global_state/draft/story.md`
 
 Constraints:
 - Respect established continuity.

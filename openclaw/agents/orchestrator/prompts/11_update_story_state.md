@@ -1,6 +1,6 @@
 # State Task: Update Story State
 
-Goal: Apply deterministic updates to `<STATE_ROOT>/run/story_state.md` after task completion.
+Goal: Apply deterministic updates to `/vol/projects/mechauthor/openclaw/global_state/run/story_state.md` after task completion.
 
 Requirements:
 - Increment scene/chapter counters safely.

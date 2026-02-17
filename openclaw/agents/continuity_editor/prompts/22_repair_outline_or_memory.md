@@ -5,4 +5,4 @@ Goal: Repair structural or memory inconsistencies without creative drift.
 Allowed outputs:
 - corrected outline file(s)
 - corrected memory file(s)
-- state flag reset in `<STATE_ROOT>/run/story_state.md`
+- state flag reset in `/vol/projects/mechauthor/openclaw/global_state/run/story_state.md`

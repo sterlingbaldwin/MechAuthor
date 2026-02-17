@@ -3,10 +3,10 @@
 Goal: Generate scene plans for one chapter.
 
 Input:
-- `<STATE_ROOT>/outline/chapters/chXX.md`
+- `/vol/projects/mechauthor/openclaw/global_state/outline/chapters/chXX.md`
 
 Output:
-- `<STATE_ROOT>/outline/scenes/chXX_scenes.md`
+- `/vol/projects/mechauthor/openclaw/global_state/outline/scenes/chXX_scenes.md`
 
 For each scene include:
 - Scene id

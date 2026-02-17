@@ -1,3 +1,3 @@
 # Ops Task: Rebuild story_state from files
 
-Goal: Recover `<STATE_ROOT>/run/story_state.md` when state is missing or corrupt.
+Goal: Recover `/vol/projects/mechauthor/openclaw/global_state/run/story_state.md` when state is missing or corrupt.

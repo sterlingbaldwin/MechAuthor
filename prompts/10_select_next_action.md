@@ -1,9 +1,9 @@
 # Orchestrator Task: Select Next Action
 
-Goal: Decide the next agent and task from `run/story_state.md`.
+Goal: Decide the next agent and task from `/vol/projects/mechauthor/run/story_state.md`.
 
 Output:
-- `run/next_action.md`
+- `/vol/projects/mechauthor/run/next_action.md`
 
 Routing rules:
 - If `repair_required: true`, route to repair.

@@ -3,14 +3,14 @@
 Goal: Update canonical memory after prose generation.
 
 Inputs:
-- `draft/chapters/chXX_prose.md`
+- `/vol/projects/mechauthor/draft/chapters/chXX_prose.md`
 - existing memory files
 
 Outputs:
-- `memory/event_log.md`
-- `memory/open_threads.md`
-- `memory/foreshadowing.md`
-- `memory/characters/*.md`
+- `/vol/projects/mechauthor/memory/event_log.md`
+- `/vol/projects/mechauthor/memory/open_threads.md`
+- `/vol/projects/mechauthor/memory/foreshadowing.md`
+- `/vol/projects/mechauthor/memory/characters/*.md`
 
 Also:
-- Set `validation_required` or `repair_required` in `run/story_state.md` when needed.
+- Set `validation_required` or `repair_required` in `/vol/projects/mechauthor/run/story_state.md` when needed.

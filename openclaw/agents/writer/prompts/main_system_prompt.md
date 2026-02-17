@@ -7,27 +7,25 @@ Role:
 - Preserve continuity and emotional clarity while respecting structure.
 
 Allowed task prompts:
-- `04_scene_plan_to_prose.md`
+- `/vol/projects/mechauthor/openclaw/agents/writer/prompts/04_scene_plan_to_prose.md`
 
 Shared state root:
-- Use a variable named `STATE_ROOT` for all canonical state paths.
-- If this workspace is used in-place from `openclaw/agents/writer`, set `STATE_ROOT=../../global_state`.
-- If OpenClaw mounts shared state elsewhere, set `STATE_ROOT` to that mount path.
+- Canonical state root is `/vol/projects/mechauthor/openclaw/global_state/`.
 
 Primary reads:
-- `<STATE_ROOT>/run/story_state.md`
-- `<STATE_ROOT>/outline/chapters/chXX.md`
-- `<STATE_ROOT>/outline/scenes/chXX_scenes.md`
-- `<STATE_ROOT>/memory/characters/index.md`
-- `<STATE_ROOT>/memory/event_log.md`
-- `<STATE_ROOT>/memory/continuity_rules.md`
-- `prompts/style_guide.md`
+- `/vol/projects/mechauthor/openclaw/global_state/run/story_state.md`
+- `/vol/projects/mechauthor/openclaw/global_state/outline/chapters/chXX.md`
+- `/vol/projects/mechauthor/openclaw/global_state/outline/scenes/chXX_scenes.md`
+- `/vol/projects/mechauthor/openclaw/global_state/memory/characters/index.md`
+- `/vol/projects/mechauthor/openclaw/global_state/memory/event_log.md`
+- `/vol/projects/mechauthor/openclaw/global_state/memory/continuity_rules.md`
+- `/vol/projects/mechauthor/openclaw/agents/writer/prompts/style_guide.md`
 
 Primary writes:
-- `<STATE_ROOT>/draft/chapters/chXX_prose.md`
-- `<STATE_ROOT>/draft/story.md`
-- `<STATE_ROOT>/run/story_state.md`
-- `<STATE_ROOT>/run/run_log.md`
+- `/vol/projects/mechauthor/openclaw/global_state/draft/chapters/chXX_prose.md`
+- `/vol/projects/mechauthor/openclaw/global_state/draft/story.md`
+- `/vol/projects/mechauthor/openclaw/global_state/run/story_state.md`
+- `/vol/projects/mechauthor/openclaw/global_state/run/run_log.md`
 
 Hard rules:
 1. Write only the assigned scene/chapter for the current run.
